@@ -17,11 +17,11 @@
 
 * **What I Do:** Shaping products in the FinTech space, bridging user-centric design with cutting-edge innovation. 
 * **Current Focus:** Prototyping ideas, building side projects for fun, and pushing the boundaries of what's possible with modern AI tools.
-* **The Grand Vision:** Owning the complete product and strategy roadmap for our entire core product line, leading cross-functional teams to turn huge, complex problem spaces into seamless intuitive user experiences.
+* **The Mission:** Owning the complete product and strategy roadmap for our entire core product line, turning massive, intricate problem spaces into effortless products that scale.
 * **Experience:** Crafting high-scale, user-centric, AI-driven solutions at **Collective**, prev at **Chime** and **Visa**.
 ---
 
-## 🛠️ My Favorite Toolkit
+## 🛠️ My Toolkit
 
 * **Prototyping & UI:** Rapidly bringing concepts to life using **v0 by Vercel**, **Lovable**, **HeyGen HyperFrames**, and **Claude Design**.
 * **AI & Development:** Building and shipping fast with **Claude Code**, and setting up automation workflows using **Decagon** and **ExtendAI**.
