@@ -13,7 +13,7 @@
 
 ---
 
-## ✨ About Me
+## 💡 About Me
 
 * **What I Do:** Shaping products in the FinTech space, bridging user-centric design with cutting-edge innovation. 
 * **Current Focus:** Prototyping ideas, building side projects for fun, and pushing the boundaries of what's possible with modern AI tools.
