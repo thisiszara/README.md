@@ -24,6 +24,7 @@
 ## 🛠️ My Favorite Toolkit
 
 * **Prototyping & UI:** Rapidly bringing concepts to life using **v0 by Vercel**, **Lovable**, **HeyGen HyperFrames**, and **Claude Design**.
-* **AI & Development:** Building and shipping fast using **Claude Code** and tinkering with new tools.
-* **Content & Strategy:** Refining product content and messaging using **Gemini** and **Claude Chat**.
+* **AI & Development:** Building and shipping fast with **Claude Code**, and setting up automation workflows using **Decagon** and **ExtendAI**.
+* **Content & Strategy:** Driving deep market research and technical discovery with **Claude Cowork**, and refining messaging using **Gemini**.
+* **Feedback & Roadmapping:** Synthesizing user feedback and structuring roadmaps using **Claude** and **Gemini**. 
 * **Product Craft:** Translating complex technical concepts into clean, intuitive, and high-impact user experiences.
